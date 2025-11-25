@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mchoc\\Documents\\GitHub\\projekt-3\\MergeSort_Project\\MergeSortTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC83DD5-69EB-406C-AE8A-BC6248254C87}|MergeSortTests\\MergeSortTests.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\projekt-3\\MergeSort_Project\\MergeSortTests\\MergeSortTests\\mergesort_tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAC83DD5-69EB-406C-AE8A-BC6248254C87}|MergeSortTests\\MergeSortTests.vcxproj|solutionrelative:MergeSortTests\\mergesort_tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mergesort_tests.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\projekt-3\\MergeSort_Project\\MergeSortTests\\MergeSortTests\\mergesort_tests.cpp",
+              "RelativeDocumentMoniker": "MergeSortTests\\mergesort_tests.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\projekt-3\\MergeSort_Project\\MergeSortTests\\MergeSortTests\\mergesort_tests.cpp*",
+              "RelativeToolTip": "MergeSortTests\\mergesort_tests.cpp*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAMwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T14:39:39.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
